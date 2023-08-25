@@ -1,5 +1,5 @@
 from.acessorio import Acessorio
-from.marca import Marca
-from.cor import Cor
 from.categoria import Categoria
+from.cor import Cor
+from.marca import Marca
 from.veiculo import Veiculo
